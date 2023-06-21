@@ -1,5 +1,5 @@
 # Module_3
-Rules of game
+Link to game: https://module-3-six.vercel.app/
 RULES:
       1.Choose the number of words for game: 3, 5 or 7
       2.We will choose random words from your list of words
