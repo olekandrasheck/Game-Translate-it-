@@ -1,4 +1,4 @@
-# Module_3
+# Game Translate it
 **Link to game:** https://module-3-six.vercel.app/
 
 
