@@ -1,5 +1,7 @@
 # Module_3
 **Link to game:** https://module-3-six.vercel.app/
+
+
 **RULES:**
 
       * Choose the number of words for game: 3, 5 or 7
