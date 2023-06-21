@@ -1,0 +1,14 @@
+.modal-add-button {
+  background-color: #ffc13b;
+  color: #f5f0e1;
+
+  &:hover {
+    background-color: #ff6e40;
+    border: #ff6e40;
+  }
+}
+
+.error-message {
+  color: #ff6e40;
+  font-size: 0.8em;
+}

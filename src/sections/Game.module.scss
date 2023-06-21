@@ -1,0 +1,33 @@
+.wrapper-game {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.header-game {
+  text-transform: uppercase;
+  color: #1e3d59;
+}
+.select-game {
+  margin-left: 10px;
+  background-color: #1e3d59;
+  color: #f5f0e1;
+}
+.label-game {
+  color: #1e3d59;
+  font-weight: bold;
+}
+.img-game {
+  width: auto;
+  height: 500px;
+}
+.button-game {
+  margin-top: 20px;
+  background-color: #ffc13b;
+  text-transform: uppercase;
+  color: #f5f0e1;
+  &:hover {
+    background-color: #ff6e40;
+  }
+}

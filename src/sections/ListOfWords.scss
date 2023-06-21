@@ -1,0 +1,45 @@
+.list-header {
+  text-transform: uppercase;
+}
+.btn-add {
+  margin-top: 20px;
+  background-color: #ffc13b;
+  text-transform: uppercase;
+  color: #f5f0e1;
+  &:hover {
+    background-color: #ff6e40;
+  }
+}
+.list-word {
+  margin-left: 20px;
+  font-weight: bold;
+  width: 100px;
+}
+.list-word-wrapper {
+  background-color: #f5f0e1;
+  margin-top: 10px;
+  color: #1e3d59;
+  display: flex;
+  justify-content: space-around;
+  gap: 0;
+  align-items: center;
+  text-align: left;
+}
+.list-lg {
+  background-color: #ff6e40;
+  border: 1px solid #ff6e40;
+  color: #f5f0e1;
+  text-transform: uppercase;
+  font-weight: bolder;
+  width: 100px;
+  text-align: center;
+}
+
+.btn-delete {
+  background-color: transparent;
+  &:hover {
+    background-color: #ff6e40;
+    border: none;
+    color: white;
+  }
+}
