@@ -38,6 +38,7 @@ export const Round: React.FC<IRound> = ({
       setScore(score + 2);
       setMessage("You got +2 points");
       setCheckBtnDisabled(false);
+      return;
     }
 
     setScore(score - 1);
